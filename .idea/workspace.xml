@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="707e3212-0656-4b82-8ce6-064c19d341bc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/NumpyTest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project - Solutions-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/.ipynb_checkpoints/911 Calls Data Capstone Project - Solutions-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911.csv" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/Finance Project - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/Finance Project - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/Finance Project .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/Finance Project .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/.ipynb_checkpoints/Linear Regression with Python-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression - Project Exercise - Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Recommender-Systems/u.data" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Recommender-Systems/u.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Recommender-Systems/u.item" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Recommender-Systems/u.item" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-Crash-Course/Python Crash Course.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-Crash-Course/Python Crash Course.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Exercise .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Data Input and Output.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Merging, Joining, and Concatenating .ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Operations.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Operations.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Geographical Plotting/Choropleth Maps.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Advanced Matplotlib Concepts-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Matplotlib/.ipynb_checkpoints/Advanced Matplotlib Concepts-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Matplotlib/Advanced Matplotlib Concepts.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Matplotlib/Matplotlib Concepts Lecture.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Visualization/Pandas Built-in Data Viz/Pandas Built-in Data Visualization.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataAnalysis$DataAnalysis.coverage" NAME="DataAnalysis Coverage Results" MODIFIED="1562895423782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="911 Calls Data Capstone Project - Solutions.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Linear Regression with Python.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="911 Calls.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/NumpyTest.ipynb" />
+        <option value="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-Crash-Course/Python Crash Course.ipynb" />
+        <option value="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls.ipynb" />
+        <option value="$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="18" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="python-for-data-science-and-machine-learning-bootcamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="python-for-data-science-and-machine-learning-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Capstone-Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="python-for-data-science-and-machine-learning-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine Learning Sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="python-for-data-science-and-machine-learning-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine Learning Sections" type="462c0819:PsiDirectoryNode" />
+              <item name="Linear-Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="python-for-data-science-and-machine-learning-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="python-for-data-science-and-machine-learning-bootcamp" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-for-Data-Analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAnalysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAnalysis" type="462c0819:PsiDirectoryNode" />
+              <item name="统计学习方法" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="DataAnalysis" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="DataAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DataAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707e3212-0656-4b82-8ce6-064c19d341bc" name="Default" comment="" />
+      <created>1562894914938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562894914938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996634" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32996634" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32884398" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3297062" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32996634" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26824033" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3297062" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="1" side_tool="true" weight="0.3296875" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="5" weight="0.3297062" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/NumPy Arrays.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/统计学习方法/ch02.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/Numpy Indexing and Selection.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/NumPy/NumpyTest.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/Pandas/Pandas Exercises/Ecommerce Purchases">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-for-Data-Analysis/SciPy/SciPy.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="97" selection-start-line="1" selection-start-column="97" selection-end-line="1" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/Finance Project .ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/precipitation.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/Finance Project - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Principal-Component-Analysis/Principal Component Analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Python-Crash-Course/Python Crash Course.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Data-Capstone-Projects/911 Calls Data Capstone Project - Solutions.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-for-data-science-and-machine-learning-bootcamp/Machine Learning Sections/Linear-Regression/Linear Regression with Python.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
